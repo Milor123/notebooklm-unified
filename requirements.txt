@@ -1,0 +1,4 @@
+python-pptx==1.0.2
+img2pdf==0.5.1
+PyMuPDF==1.25.2
+Pillow==11.1.0
