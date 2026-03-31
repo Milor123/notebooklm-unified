@@ -14,6 +14,9 @@ This script automates the entire NotebookLM presentation cleaning process:
 3. **Removes** NotebookLM watermark
 4. **Converts** back to clean PPTX
 
+<img width="1408" height="768" alt="imagen" src="https://github.com/user-attachments/assets/46cc7e47-5185-4bf3-81ff-0c4b8f34a8c7" />
+
+
 ## Why this project?
 
 NotebookLM generates presentations with a maximum of 15 slides per file. For longer documents, you end up with multiple PPTXs that need to be:
